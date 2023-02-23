@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 -->
 
 
-|<a><img width="530" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=habbatul&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="habbatul's github stats" /></a> | <a><img width="340" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=habbatul&layout=compact&theme=transparent&langs_count=20&hide_border=true&count_private=true" /></a> |
+|<a><img width="530" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=habbatul&theme=blue-green&bg_color=00000000&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="habbatul's github stats" /></a> | <a><img width="340" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=habbatul&layout=compact&&theme=blue-green&bg_color=00000000&langs_count=20&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
+
 - 🌱 I’m currently learning Assembly
 - 🖥️ This is for document my artworks
 - ⌨️ Coding is a great hobby
