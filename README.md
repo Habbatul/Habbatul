@@ -3,7 +3,11 @@
 <b><a href="https://habbatul.github.io/">Klik Disini Untuk Portofolio saya!!!</a></b>
 
 ### ✨ I liked it, I was good at it, I was alive ✨
-<p align="justify">Saya suka logika dalam koding-mengkoding, tapi ketika masuk institusi pendidikan semuanya terkesan njujug sehingga harus banyak ngulik sendiri untuk mendapatkan ilmu. Sayang waktunya tidak terlalu cukup karena liburan pun diisi acara-acara aneh di kampus yang wajib mahasiswa ikuti, jadi hanya mengalir saja.</p>
+<p align="justify">My name is Han, and I enjoy exploring the world of 3D visuals. I have been diving into it and applying it to my web designs using Three.js, Tween.js, and Three Post Processing. I also have an interest in exploring game technologies, such as using Unity. Additionally, I delve into Android development and website creation.
+
+In terms of design patterns, I am familiar with the Repository Pattern and MVC (Model-View-Controller) for website development. For native Android development using Java, I follow the MVA (Model-View-Adapter) architecture.
+
+Overall, I have a passion for visual experiences and enjoy pushing the boundaries of what can be achieved in the realms of 3D, game development, Android, and web design.</p>
 
 <!--
 **Habbatul/Habbatul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
