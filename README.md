@@ -5,7 +5,7 @@
 ### ✨ I liked it, I was good at it, I was alive ✨
 <p align="justify"> My name is Han, and I enjoy exploring the world of 3D/2D visuals also i love about programming a software (website, desktop, mobile, games). I have been diving into 3D visuals and applying it to my web designs using Three.js, Tween.js, and Three Post Processing. I also have an interest in exploring game technologies, such as using Unity and Making stup*d art with Blender. Additionally, I delve into Android development and website creation (website is my main priority).
 
-- For PHP website developmentIn terms of design patterns, I am familiar with the Layered Architecture + Repository Pattern and MVC (Model-View-Controller). 
+- For website development using PHP, I am familiar with the Layered Architecture + Repository Pattern and MVC (Model-View-Controller). 
 - For native Android development using Java, I follow the MVA (Model-View-Adapter) & MVVM (Model-View-ViewModel) architecture.
 
 Overall, I have a passion for visual experiences and enjoy pushing the boundaries of what can be achieved...</p>
