@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Assembly
 - 🖥️ This is for document my artworks
 - ⌨️ Coding is a great hobby
-- 📖 Road to GameDev & SoftwareDev
+- 📖 Junior Developer (All Platform)
 
 <p align="center"><a href="https://www.instagram.com/hq.han/?hl=id"><img width="70%" alt="My name is Habbatul Qolbi H" src="haNIP2.png" /></a></p>
 <br><br>
