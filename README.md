@@ -103,9 +103,9 @@ Here are some ideas to get you started:
 </table>
 <br/>  
 <p align="center">
-    <img width="450" src="https://hq.achmodez.tech/SocialCard/github-card.php" alt="GitHub Card">
-    <img width="450" src="https://hq.achmodez.tech/SocialCard/linkedin-card.php" alt="LinkedIn Card">
+    <img width="400" src="https://hq.achmodez.tech/SocialCard/github-card.php" alt="GitHub Card">
+    <img width="400" src="https://hq.achmodez.tech/SocialCard/linkedin-card.php" alt="LinkedIn Card">
     <br>
-    <img width="450" src="https://hq.achmodez.tech/SocialCard/instagram-card.php" alt="Instagram Card">
+    <img width="400" src="https://hq.achmodez.tech/SocialCard/instagram-card.php" alt="Instagram Card">
 </p>
 </p>
