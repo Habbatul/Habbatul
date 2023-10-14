@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.instagram.com/hq.han/?hl=id"><img width="80%" alt="My name is Habbatul Qolbi H" src="banerbaru.png" /></a></p>
+<p align="center"><a href="https://www.instagram.com/hq.han/?hl=id"><img width="100%" alt="My name is Habbatul Qolbi H" src="banerbaru.png" /></a></p>
 
 <b><a href="https://hq.achmodez.tech/">Click here for my portofolio website!!!</a></b>
 
