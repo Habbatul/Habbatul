@@ -1,10 +1,12 @@
-<p align="center"><a href="https://www.instagram.com/hq.han/?hl=id"><img width="80%" alt="My name is Habbatul Qolbi H" src="wokeh.png" /></a></p>
+<p align="center"><a href="https://www.instagram.com/hq.han/?hl=id"><img width="80%" alt="My name is Habbatul Qolbi H" src="banerbaru.png" /></a></p>
 
 <b><a href="https://hq.achmodez.tech/">Click here for my portofolio website!!!</a></b>
 
-### About Me
-<h5> My main focus in development is on the Spring Ecosystem <img src="https://github.com/Habbatul/Habbatul/assets/121380847/db5b2f9c-4c0b-4596-be37-aaf2beeb8c48" width="20"> </h5>
-<p align="justify"> I have a deep passion for the world of programming and continue my learning journey due to its vastness. I work professionally in back-end systems using Java, specifically Spring Boot. Additionally, I specialize in creating small-scale websites using PHP, including frameworks like Codeigniter 4, Native PHP, or Laravel. For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS for 3D graphics. When it comes to full-stack website development, I predominantly use PHP and often opt for the Codeigniter 4 framework. For game development, I have experience with Unity and Blender. For mobile application development, I work with Android Native using Java. Lastly, for desktop applications, I utilize Java and JavaFX
+### About Me <img src="https://github.com/Habbatul/Habbatul/assets/121380847/db5b2f9c-4c0b-4596-be37-aaf2beeb8c48" width="20">
+<h5> My main focus in development is on the Spring Ecosystem and deployment with Docker & Nginx </h5>
+<p align="justify"> I have a deep passion for the world of programming and continue my learning journey due to its vastness. I work professionally in back-end systems using Java, specifically Spring Boot. Additionally, I specialize in creating small-scale websites using PHP, including frameworks like Codeigniter 4, Native PHP, or Laravel. I use DirectAdmin for small-scale app deployments and utilize Docker and Nginx on a VPS for medium-scale app deployments. 
+
+For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS (with Vite) for 3D graphics. When it comes to full-stack website development, I predominantly use PHP and often opt for the Codeigniter 4 framework. For game development, I have experience with Unity and Blender. For mobile application development, I work with Android Native using Java. Lastly, for desktop applications, I utilize Java and JavaFX
 </p>
 
 
@@ -13,7 +15,7 @@
 
 <br><br>
 
-- 🌱 I’m currently learning Spring, Docker and reverse proxy with ubuntu VPS
+- 🌱 I’m currently learning Spring, Docker and reverse proxy with Nginx in ubuntu VPS
 - 🖥️ This is for document my artworks
 - ⌨️ Coding is a great hobby
 - 📖 Junior Developer (backend)
@@ -27,15 +29,18 @@
 <td valign="top" width="33%">
 <h3>Backend (occupation)</h3>
 <div align="center">
-<a href="https://codeigniter.com/" target="_blank">
+<a href="https://spring.io/" target="_blank">
 <img style="margin: 10px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/spring.svg" alt="Spring" height="50" />
 </a>
+<a href="https://www.java.com/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+</a>
 <a href="https://www.php.net/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/php.svg" alt="PHP" height="35" />
 </a>
-<a href="https://go.dev/" target="_blank">
+<!-- <a href="https://go.dev/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-</a>
+</a> -->
 <a href="https://codeigniter.com/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />
 </a>
@@ -46,7 +51,7 @@
 <td valign="top">
 <h3>Frontend (occupation)</h3>
 <div align="center">
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a href="https://vitejs.dev/" target="_blank">
 <img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="CSS3" height="50" />
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank">
@@ -74,11 +79,11 @@
 <td valign="top">
 <h3>Deployment (occupation)</h3>
 <div align="center">
-<a href="https://www.java.com/" target="_blank">
+<a href="https://www.docker.com/" target="_blank">
 <img style="margin: 10px" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/docker-icon.svg" alt="Docker" height="50" />
 </a>
-<a href="https://unity.com/" target="_blank">
-<img style="margin: 10px" src="https://github.com/Habbatul/Habbatul/assets/121380847/c5eb26a2-9fba-404e-9e28-90e4c2d97c8b" alt="Nginx" height="50" />
+<a href="https://www.nginx.com/" target="_blank">
+<img style="margin: 10px" src="https://github.com/get-icon/geticon/blob/master/icons/nginx-icon.svg" alt="Nginx" height="50" />
 </a>
 </div>
 </td>
@@ -93,6 +98,9 @@
 </a>
 <a href="https://unity.com/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
+</a>
+<a href="https://gluonhq.com/products/scene-builder/" target="_blank">
+<img style="margin: 10px" src="https://w7.pngwing.com/pngs/776/561/png-transparent-javafx-scene-builder-fxml-jar-mobile-app-development-builder-food-user-interface-design-orange.png" alt="Scene Builder" height="50" />
 </a>
 </div>
 </td> 
