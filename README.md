@@ -4,9 +4,9 @@
 
 ### About Me <img src="https://github.com/Habbatul/Habbatul/assets/121380847/db5b2f9c-4c0b-4596-be37-aaf2beeb8c48" width="20">
 <h5> My main focus in development is on the Spring Ecosystem and deployment with Docker & Nginx </h5>
-<p align="justify"> I have a deep passion for the world of programming and continue my learning journey due to its vastness. I work professionally in back-end systems using Java, specifically Spring Boot. Additionally, I specialize in creating small-scale websites using PHP, including frameworks like Codeigniter 4, Native PHP, or Symfoni (with Twig template). I use DirectAdmin for small-scale app deployments and utilize Docker and Nginx on a VPS for medium-scale app deployments. 
+<p align="justify"> I have a deep passion for the world of programming and continue my learning journey due to its vastness. I work professionally in back-end systems using Java, specifically Spring Boot. Additionally, I specialize in creating small-scale websites (Fullstack or Backend) using PHP, including frameworks like Codeigniter 4, Native PHP, or Symfoni (with Twig template). I use DirectAdmin for small-scale app deployments and utilize Docker and Nginx on a VPS for medium-scale app deployments. 
 
-For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS (with Vite) for 3D graphics. When it comes to full-stack website development, I predominantly use PHP and often opt for the Codeigniter 4 framework. For game development, I have experience with Unity and Blender. For mobile application development, I work with Android Native using Java. Lastly, for desktop applications, I utilize Java and JavaFX
+For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS (with Vite) for 3D graphics. For game development, I have experience with Unity and Blender. For mobile application development, I work with Android Native using Java. Lastly, for desktop applications, I utilize Java and JavaFX
 </p>
 
 
