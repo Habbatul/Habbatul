@@ -27,7 +27,7 @@ For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS
 - 📖 Junior Developer (backend Java, fullstack PHP)
 
 
-<br>
+<br><center>
 <div align="center">
 
 | Backend (occupation)  | Deployment (occupation)   | Fullstack (occupation) |
@@ -42,4 +42,4 @@ For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS
 |-----------|-----------|-----------|
 | <div align="center"> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> </a> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> </a> <a href="https://www.blender.org/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /> </a> </div>      |     <div align="center"> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img style="margin: 10px" src="https://w7.pngwing.com/pngs/776/561/png-transparent-javafx-scene-builder-fxml-jar-mobile-app-development-builder-food-user-interface-design-orange.png" alt="Scene Builder" height="50" /> </a> </div>     |     <div align="center"> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /> </a>       |
 
-</div>
+</div></center>
