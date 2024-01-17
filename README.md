@@ -14,7 +14,7 @@ For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS
 
 <div align="center">
   
-|<a href="https://www.google.com"><img width="530" align="center" src="han.svg" alt="habbatul's github stats" /></a> | <a><img width="340" align="center" src="h[ttps://github-readme-stats.vercel.app/api/top-langs/?username=habbatul&layout=compact&theme=transparent&bg_color=00000000&langs_count=20&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=habbatul&layout=compact&theme=transparent&bg_color=00000000&langs_count=20&hide_border=true&count_private=false&exclude_repo=cms-profile-padukuhan,hanif,ThreeJS-Form,Habbatul.github.io)" /></a> |
+|<a href="https://www.google.com"><img width="530" align="center" src="han.svg" alt="habbatul's github stats" /></a> | <a><img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbatul&layout=compact&theme=transparent&bg_color=00000000&langs_count=20&hide_border=true&count_private=false&exclude_repo=cms-profile-padukuhan,hanif,ThreeJS-Form,Habbatul.github.io" /></a> |
 | ------------- | ------------- |
 
 </div>
