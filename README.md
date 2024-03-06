@@ -7,10 +7,7 @@
 <h1> <a href="https://hq.achmodez.tech/">About Me</a> </h1>
 
 <b> My main focus in development is on the Spring Ecosystem and deployment with Docker & Nginx. </b>
-<p align="justify"> I have a deep passion for the world of programming and continue my learning journey due to its vastness. I work professionally in back-end systems using Java, specifically Spring Boot. Additionally, I specialize in creating small-scale websites (Fullstack or Backend) using PHP, including frameworks like Codeigniter 4, Native PHP, or Symfoni (with Twig template). I use DirectAdmin for small-scale app deployments and utilize Docker and Nginx on a VPS for medium-scale app deployments. 
-
-For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS (with Vite) for 3D graphics. For game development, I have experience with Unity and Blender. For mobile application development, I work with Android Native using Java. Lastly, for desktop applications, I utilize Java and JavaFX
-</p>
+<p align="justify"> I work with technologies abstraction but try to study about low-level and diving into it's magic. I love about computer graphic, making games, and making CRUD App on website, desktop, or android.</p>
 
 <div align="center">
   
@@ -21,7 +18,7 @@ For front-end development, I employ TailwindCSS and AlpineJS, along with ThreeJS
 
 <br>
 
-- 🌱 I’m currently learning Spring, Docker and reverse proxy with Nginx in ubuntu VPS
+- 🌱 I’m currently learning Infra (Docker & Nginx) & Graphical Computer
 - 🖥️ This is for document my artworks
 - ⌨️ Coding is a great hobby
 - 📖 Junior Developer (backend Java, fullstack PHP)
