@@ -9,6 +9,9 @@
 <b> My main focus in development is on the Spring Ecosystem and deployment with Docker & Nginx. </b>
 <p align="justify"> I work with technologies abstraction but try to study about low-level and diving into it's magic. I love about computer graphic, making games, and making CRUD App on website, desktop, or android.</p>
 
+- 🌱 I’m currently learning Infra (Docker & Nginx) & Graphical Computer
+- 📖 Junior Software Engineer (backend Java, fullstack PHP, Indie Game Dev)
+<br>
 <div align="center">
   
 |<a href="https://www.google.com"><img width="530" align="center" src="han.svg" alt="habbatul's github stats" /></a> | <a><img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbatul&layout=compact&theme=transparent&bg_color=00000000&langs_count=20&hide_border=true&count_private=false&exclude_repo=cms-profile-padukuhan,hanif,ThreeJS-Form,Habbatul.github.io" /></a> |
@@ -17,11 +20,6 @@
 </div>
 
 <br>
-
-- 🌱 I’m currently learning Infra (Docker & Nginx) & Graphical Computer
-- 🖥️ This is for document my artworks
-- ⌨️ Coding is a great hobby
-- 📖 Junior Software Engineer (backend Java, fullstack PHP, Indie Game Dev)
 
 
 <br><center>
