@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Infra (Docker & Nginx) & Graphical Computer
 - 🖥️ This is for document my artworks
 - ⌨️ Coding is a great hobby
-- 📖 Junior Developer (backend Java, fullstack PHP)
+- 📖 Junior Software Engineer (backend Java, fullstack PHP, Indie Game Dev)
 
 
 <br><center>
