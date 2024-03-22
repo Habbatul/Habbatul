@@ -1,6 +1,3 @@
-<p align="center"><a href="https://www.instagram.com/hq.han/?hl=id"><img width="100%" alt="My name is Habbatul Qolbi H" src="banerbaru.png" /></a></p>
-
-<br>
 <div align="center"><b><h3><a href="https://hq.achmodez.tech/">Click here for my portofolio website!!!</a></h3></b></div>
 <br>
 
@@ -14,7 +11,7 @@
 <br>
 <div align="center">
   
-|<a href="https://www.google.com"><img width="530" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habbatul&theme=transparent&hide_border=true" alt="habbatul's github stats" /></a> | <a><img width="340" src="https://hq.achmodez.tech/SocialCard/github-lang-stat" align="center"  /></a> |
+|<a href="https://www.google.com"><img width="530" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habbatul&theme=transparent&hide_border=true" alt="habbatul's github stats" /></a> | <a href="https://github.com/Habbatul/Github-Profile-LangCount"><img width="340" src="https://hq.achmodez.tech/SocialCard/github-lang-stat" align="center"  /></a> |
 | ------------- | ------------- |
 
 </div>
