@@ -14,7 +14,7 @@
 <br>
 <div align="center">
   
-|<a href="https://www.google.com"><img width="530" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habbatul&theme=transparent&hide_border=true" alt="habbatul's github stats" /></a> | <a><img width="340" align="center" src="https://github-readme-stats-p2kqw8x85-habbatuls-projects.vercel.app/api/top-langs/?username=habbatul&layout=compact&theme=transparent&bg_color=00000000&langs_count=20&hide_border=true&count_private=true&exclude_repo=hanif,Habbatul.github.io,SocialMedia-Card,clean-architecture-php,cropperGambar,Portofolio-Website,cms-profile-padukuhan,github-readme-stats&size_weight=0.5&count_weight=0.5" /></a> |
+|<a href="https://www.google.com"><img width="530" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habbatul&theme=transparent&hide_border=true" alt="habbatul's github stats" /></a> | <a><img width="340" src="https://hq.achmodez.tech/SocialCard/github-lang-stat" align="center"  /></a> |
 | ------------- | ------------- |
 
 </div>
