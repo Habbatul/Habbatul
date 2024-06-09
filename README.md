@@ -4,12 +4,12 @@
 - Interested in computer graphics, and low level programming.
 - I use `.java` `.go` `.php` for daily
 - I use `.js` for hobby project.
-- Currently learning **Docker**, **Ngin**x, **Go**, and **Java**
+- Currently learning **Docker**, **Nginx**, **Go**, and **Java**
 - I have made several projects as a portfolio : <br>
-  <sub>&ensp; ► Backend project with `.java`, `.php`, and `.go` (prioritize for real work).   </sub><br>
-  <sub>&ensp; ► Website with `.php` and `.js` (my hobby).</sub><br>
-  <sub>&ensp; ► Games with **Webgl-Threejs** and **Unity** (my hobby).</sub><br>
-  <sub>&ensp; ► Also made some desktop and mobile project (my hobby).</sub><br>
+  <sub>&ensp; ► Backend project with `.java`, `.php`, and `.go`</sub><br>
+  <sub>&ensp; ► Website with `.php` and `.js`</sub><br>
+  <sub>&ensp; ► Games with **Webgl-Threejs** and **Unity**</sub><br>
+  <sub>&ensp; ► Also made some desktop and mobile project.</sub><br>
 
 <details>
 <summary>Click here for more information with fancy stuff</summary>
