@@ -1,17 +1,16 @@
-##### <b><a href="https://hq.achmodez.tech/">Hello my name is Habbatul Qolbi H (hq.han) 👋</a></b> #####
+##### <b><a href="https://hq.achmodez.tech/">Hello my name is Habbatul Qolbi H (hq.han) 👋 - Klick here</a></b> #####
 <b> I work with technologies abstraction but try to study about low-level and diving into it's magic. </b>
 - I'm a backend engineer 
 - Interested in computer graphics, and low level programming.
 - I use `.java` `.go` `.php` for daily
 - I use `.js` for hobby project.
 - Currently learning **Docker**, **Ngin**x, **Go**, and **Java**
-- I have made several projects as a portfolio :<br>
-  <sub> ► Backend project with `.java`, `.php`, and `.go` (prioritize for real work).   </sub><br>
-  <sub> ► Website with `.php` and `.js` (my hobby).</sub><br>
-  <sub> ► Games with **Webgl-Threejs** and **Unity** (my hobby).</sub><br>
-  <sub> ► Also made some desktop and mobile project (my hobby).</sub><br>
+- I have made several projects as a portfolio : <br>
+  <sub>&ensp; ► Backend project with `.java`, `.php`, and `.go` (prioritize for real work).   </sub><br>
+  <sub>&ensp; ► Website with `.php` and `.js` (my hobby).</sub><br>
+  <sub>&ensp; ► Games with **Webgl-Threejs** and **Unity** (my hobby).</sub><br>
+  <sub>&ensp; ► Also made some desktop and mobile project (my hobby).</sub><br>
 
-<br>
 <details>
 <summary>Click here for more information with fancy stuff</summary>
   
