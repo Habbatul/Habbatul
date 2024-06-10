@@ -1,19 +1,19 @@
 ##### <b><a href="https://hq.achmodez.tech/">Hello my name is Habbatul Qolbi H (hq.han) 👋 - Klick here</a></b> #####
 <b> I work with technologies abstraction but try to study about low-level and diving into it's magic. </b>
-- I'm a backend engineer 
-- Interested in computer graphics, and low level programming.
-- I use `.java` `.go` `.php` for daily
+- I'm a junior backend engineer 
+- Interested in computer graphics, and system programming.
+- I use `.java` `.go` `.php` for daily.
 - I use `.js` for hobby project.
-- Currently learning **Docker**, **Nginx**, **Go**, and **Java**
+- Currently learning **Docker**, **Nginx**, **Go**, and **Java**.
 - I have made several projects as a portfolio : <br>
-  <sub>&ensp; ► Backend project with `.java`, `.php`, and `.go`</sub><br>
-  <sub>&ensp; ► Website with `.php` and `.js`</sub><br>
-  <sub>&ensp; ► Games with **Webgl-Threejs** and **Unity**</sub><br>
-  <sub>&ensp; ► Also made some desktop and mobile project.</sub><br>
+  <sub>&ensp; - Backend project with `.java`, `.php`, and `.go`.</sub><br>
+  <sub>&ensp; - Website with `.php` and `.js`.</sub><br>
+  <sub>&ensp; - Games with **Webgl-Threejs** and **Unity**.</sub><br>
+  <sub>&ensp; - Also made some desktop and mobile project.</sub><br>
 
 <details>
 <summary>Click here for more information with fancy stuff</summary>
-  
+<br/>
 <div align="center">
   
 |<a href="https://www.google.com"><img width="530" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habbatul&theme=transparent&hide_border=true" alt="habbatul's github stats" /></a> | <a href="https://github.com/Habbatul/Github-Profile-LangCount"><img width="340" src="https://hq.achmodez.tech/SocialCard/github-lang-stat" align="center"  /></a> |
