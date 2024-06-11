@@ -6,7 +6,7 @@
 - I use `.js` for hobby project.
 - Currently learning **Docker**, **Nginx**, **Go**, and **Java**.
 - I have made several projects as a portfolio : <br>
-  <sub>&ensp; - Backend project with `.java`, `.php`, and `.go`.</sub><br>
+  <sub>&ensp; - Backend project with `.java` and `.go`.</sub><br>
   <sub>&ensp; - Website with `.php` and `.js`.</sub><br>
   <sub>&ensp; - Games with **Webgl-Threejs** and **Unity**.</sub><br>
   <sub>&ensp; - Also made some desktop and mobile project.</sub><br>
