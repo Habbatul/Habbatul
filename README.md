@@ -1,19 +1,8 @@
-##### <b><a href="https://hq.achmodez.tech/">Hello my name is Habbatul Qolbi H (hq.han) 👋 - Klick here</a></b> #####
-<b> I work with technologies abstraction but try to study about low-level and diving into it's magic. </b>
-- I'm a junior backend engineer 
-- Interested in computer graphics, and system programming.
-- I use `.java` `.go` `.php` for daily.
-- I use `.js` for hobby project.
-- Currently learning **Docker**, **Nginx**, **Go**, and **Java**.
-- I have made several projects as a portfolio : <br>
-  <sub>&ensp; - Backend project with `.java` and `.go`.</sub><br>
-  <sub>&ensp; - Website with `.php` and `.js`.</sub><br>
-  <sub>&ensp; - Games with **Webgl-Threejs** and **Unity**.</sub><br>
-  <sub>&ensp; - Also made some desktop and mobile project.</sub><br>
+### <b><a href="https://hq.achmodez.tech/">Hello i'm Hanif (klick here) 👋 </a></b>
 
 <details>
-<summary>Click here for more information with fancy stuff</summary>
-<br/>
+<summary><b>Tool that i used</b></summary>
+<br/><br>
 <div align="center">
   
 |<a href="https://www.google.com"><img width="530" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habbatul&theme=transparent&hide_border=true" alt="habbatul's github stats" /></a> | <a href="https://github.com/Habbatul/Github-Profile-LangCount"><img width="340" src="https://hq.achmodez.tech/SocialCard/github-lang-stat" align="center"  /></a> |
@@ -21,7 +10,7 @@
 
 </div>
 
-<br><center>
+<br>
 <div align="center">
   
 | Backend (pros)  | Deployment (pros)   | Fullstack (pros) |
@@ -37,5 +26,17 @@
 | <div align="center"> <a href="https://threejs.org/" target="_blank"> <img style="margin: 10px" src="threejs.jpg" alt="Three.js" height="38" /> </a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="38" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="38" /> </a> <br> <div align="center"> <a href="https://www.khronos.org/webgl/wiki/Main_Page" target="_blank"> <img style="margin: 10px" src="https://www.logo.wine/a/logo/WebGL/WebGL-Logo.wine.svg" alt="Webgl & shader" height="40" /> </a> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="38" /> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img style="margin: 10px" src="https://w7.pngwing.com/pngs/776/561/png-transparent-javafx-scene-builder-fxml-jar-mobile-app-development-builder-food-user-interface-design-orange.png" alt="Scene Builder" height="38" /> </a> <a href="https://www.blender.org/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="42" /> </a> </div>      |     <div align="center"> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="38" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="38" /> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img style="margin: 10px" src="https://w7.pngwing.com/pngs/776/561/png-transparent-javafx-scene-builder-fxml-jar-mobile-app-development-builder-food-user-interface-design-orange.png" alt="Scene Builder" height="38" /> </a> </div>     |     <div align="center"> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="38" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="38" /> </a>       |
 
 </div></center>
-
+<br>
 </details>
+
+
+- I'm a junior backend engineer 
+- Interested in computer graphics, and system programming.
+- I use `.java` `.go` `.php` for daily.
+- I use `.js` for hobby project.
+- Currently learning **Docker**, **Nginx**, **Go**, and **Java**.
+- I have made several projects as a portfolio : <br>
+  - <sub>&ensp; Backend project with `.java` and `.go`.</sub>
+  - <sub>&ensp; Website with `.php` and `.js`.</sub>
+  - <sub>&ensp; Games with **Webgl-Threejs** and **Unity**.</sub>
+  - <sub>&ensp; Also made some desktop and mobile project.</sub>
