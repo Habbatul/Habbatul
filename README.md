@@ -1,4 +1,4 @@
-### <b><a href="https://hq.achmodez.tech/">Hello i'm Hanif (klick here) 👋 </a></b>
+### <b><a href="https://hqhan.my.id/">Hello i'm Hanif (klick here) 👋 </a></b>
 
 <details>
 <summary><b>Tool that i used</b></summary>
