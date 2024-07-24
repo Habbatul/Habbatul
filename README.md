@@ -5,7 +5,7 @@
 <br/><br>
 <div align="center">
   
-|<a href="https://www.google.com"><img width="530" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habbatul&theme=transparent&hide_border=true" alt="habbatul's github stats" /></a> | <a href="https://github.com/Habbatul/Github-Profile-LangCount"><img width="340" src="https://hq.achmodez.tech/SocialCard/github-lang-stat" align="center"  /></a> |
+|<a href="https://www.google.com"><img width="530" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habbatul&theme=transparent&hide_border=true" alt="habbatul's github stats" /></a> | <a href="https://github.com/Habbatul/Github-Profile-LangCount"><img width="340" src="https://hqhan.my.id/SocialCard/github-lang-stat" align="center"  /></a> |
 | ------------- | ------------- |
 
 </div>
@@ -34,10 +34,10 @@
 - Interested in computer graphics, and system programming.
 - I use `.java` `.go` `.php` for daily.
 - I use `.js` for hobby project.
-- Currently learning **Docker**, **Nginx**, **Go**, and **Java**.
+- Currently learning **Docker**, **Nginx**, and **Ubuntu**.
 - I have made several projects as a portfolio : <br>
   - <sub>&ensp; Backend project with `.java` and `.go`.</sub>
-  - <sub>&ensp; Website with `.php` and `.js`.</sub>
+  - <sub>&ensp; Web with `.php` and `.js`.</sub>
   - <sub>&ensp; Games with **Webgl-Threejs** and **Unity**.</sub>
   - <sub>&ensp; Also made some desktop and mobile project.</sub>
   <br>
