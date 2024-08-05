@@ -30,7 +30,7 @@
 </details>
 
 
-- I'm a junior backend engineer 
+- I'm a backend engineer 
 - Interested in computer graphics, and system programming.
 - I use `.java` `.go` `.php` for daily.
 - I use `.js` for hobby project.
