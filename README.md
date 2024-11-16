@@ -21,7 +21,7 @@
 |-----------|-----------|
 |   <div align="center"> <a href="https://vitejs.dev/" target="_blank"> <img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="CSS3" height="38" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="38" /> </a> <a href="https://www.javascript.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="38" /> </a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="38" />     <br>     </a> <a href="https://www.tailwindcss.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="38" /> </a> <a href="https://alpinejs.dev/" target="_blank"> <img style="margin: 10px" src="alpine.png" alt="AlpineJS" height="30" /> </a> <a href="https://threejs.org/" target="_blank"> <img style="margin: 10px" src="threejs.jpg" alt="Three.js" height="38" /> </a> </div> | <div align="center"> <div align="center"> </a> <a href="https://go.dev" target="_blank"> <img style="margin: 10px" src="https://go.dev/images/favicon-gopher.png" alt="Golang" height="38"> </a>  <a href="https://ebitengine.org/" target="_blank"> <img style="margin: 10px" src="https://styles.redditmedia.com/t5_6xuf5c/styles/communityIcon_882gf0s8p6k91.png" alt="ebiten.js" height="38"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="38" /> </a> <a href="https://threejs.org/" target="_blank"> <img style="margin: 10px" src="threejs.jpg" alt="Three.js" height="38">  <br>  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="38" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="38" /> </a> <br> <div align="center"> <a href="https://www.khronos.org/webgl/wiki/Main_Page" target="_blank"> <img style="margin: 10px" src="https://www.logo.wine/a/logo/WebGL/WebGL-Logo.wine.svg" alt="Webgl & shader" height="40" /> </a> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="38" /> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img style="margin: 10px" src="https://w7.pngwing.com/pngs/776/561/png-transparent-javafx-scene-builder-fxml-jar-mobile-app-development-builder-food-user-interface-design-orange.png" alt="Scene Builder" height="38" /> </a> <a href="https://www.blender.org/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="42" /> </a> </div> |
 
-| Desktop (For Fun)   | Mobile (Fur Fun)   |
+| Desktop (For Fun)   | Mobile (For Fun)   |
 |-----------|-----------|
 | <div align="center"> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="38" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="38" /> </a> <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img style="margin: 10px" src="https://w7.pngwing.com/pngs/776/561/png-transparent-javafx-scene-builder-fxml-jar-mobile-app-development-builder-food-user-interface-design-orange.png" alt="Scene Builder" height="38" /> </a> </div>     |     <div align="center"> <a href="https://www.java.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="38" /> </a> <a href="https://unity.com/" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="38" /> </a>    |
 
@@ -29,13 +29,13 @@
 <br>
 </details>
 
-- Interested in computer graphics, and system programming.
+- Interested in game programming, computer graphics, system programming.
 - I use `.go` `.java` `.php` for daily.
 - I use `.js` for hobby project.
 - I have made several projects as a portfolio : <br>
-  - <sub>&ensp; Backend project with `.java` and `.go`.</sub>
-  - <sub>&ensp; Web with `.php` and `.js`.</sub>
-  - <sub>&ensp; Games with **Ebiten** (Go), **Threejs** (WebGl & Javascript), **Unity** (C#).</sub>
-  - <sub>&ensp; Deployment using **Docker**, **Nginx**, and **Ubuntu**.</sub>
-  - <sub>&ensp; Also made some desktop and mobile project.</sub>
+  - <sub>Backend project with `.java` and `.go`.</sub>
+  - <sub>Web with `.php` and `.js`.</sub>
+  - <sub>Games with **Ebiten** (Go), **Threejs** (WebGl & Javascript), **Unity** (C#).</sub>
+  - <sub>Deployment : FE using **Vercel**, **Github** ⇆ BE using **Docker**, **Nginx**, and **Ubuntu**.</sub>
+  - <sub>Also made some desktop and mobile project using `.java` and **Unity** for fun.</sub>
   <br>
