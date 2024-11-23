@@ -7,5 +7,5 @@
   - <sub>Web with `.php` and `.js`.</sub>
   - <sub>Games with **Ebiten** (Go), **Threejs** (WebGl & Javascript), **Unity** (C#).</sub>
   - <sub>Deployment : FE using **Vercel**, **Github** ⇆ BE using **Docker**, **Nginx**, and **Ubuntu**.</sub>
-  - <sub>Also made some desktop and mobile project using `.java` and **Unity** for fun.</sub>
+  - <sub>Other platforms, like mobile using `.java` and **Unity** for fun.</sub>
   <br>
